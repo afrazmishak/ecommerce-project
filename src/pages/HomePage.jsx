@@ -5,6 +5,7 @@ import './HomePage.css'
 export function HomePage() {
     return (
         <>
+        <title>Buy You Shopping</title>
             <Header />
 
             <div className="home-page">
